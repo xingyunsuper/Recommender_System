@@ -1,2 +1,2 @@
-# Recommender_System
-Deep-learning based CF recommender
+## Anime Recommender System
+Deep-learning-based Collaborative Filtering recommender
