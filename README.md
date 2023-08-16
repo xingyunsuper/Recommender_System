@@ -1,4 +1,4 @@
-# Recommender_System
+# Recommender Systems
 Deep-learning based CF recommender
 
 #### Anime Recommender Systems:
