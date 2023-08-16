@@ -1,2 +1,2 @@
-# ML_Recommender_System
+# Recommender_System
 Deep-learning based CF recommender
