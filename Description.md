@@ -7,10 +7,10 @@
 
 
 ### Song Recommender System:
-**Model**: User-item-based Collaborative Filtering Recommender
+**Model**: User-item-based Collaborative Filtering Recommender.
 **Data**: 
 
 
 ### Movie Recommender System:
-**Model**: Pyspark ALS Collaborative Filtering Recommender
-**Data**: 
+**Model**: Pyspark ALS Collaborative Filtering Recommender.
+**Data**: Yelp datasets on Kaggle. Size: ~5 GB. 9 Million records. 
