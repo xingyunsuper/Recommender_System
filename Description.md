@@ -1,5 +1,7 @@
 ## Recommender Systems
 
+I have built three different recommender systems based on the purposes and audiences it serves. 
+
 ### Anime:
 **Model**: Deep-learning-based Collaborative Filtering Recommender.
 
