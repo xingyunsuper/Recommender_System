@@ -10,7 +10,7 @@ Welcome to the Recommender Systems Project Collection! This repository houses a 
 - **Data Source**: Kaggle.
 - **Data Size**: 2.8 GB, comprising 109 million rows, 17,562 different animes, and 325,772 different users.
 
-#### Overview
+Overview
 
 The Anime Recommender system employs cutting-edge deep learning techniques to recommend anime titles to users based on their viewing history and preferences. With an extensive dataset sourced from Kaggle, it provides highly accurate and personalized anime recommendations, enhancing the anime-watching experience for enthusiasts.
 
@@ -20,7 +20,7 @@ The Anime Recommender system employs cutting-edge deep learning techniques to re
 - **Data Source**: Yelp datasets on Kaggle.
 - **Data Size**: Approximately 5 GB, containing 9 million records.
 
-#### Overview
+Overview
 
 The Restaurant Recommender is designed to assist users in discovering new and exciting dining options tailored to their tastes and preferences. Leveraging Yelp's extensive dataset, which includes a wealth of information about restaurants, user reviews, and ratings, this recommender system identifies patterns in user behavior to suggest restaurants that align with individual preferences.
 
@@ -30,7 +30,7 @@ The Restaurant Recommender is designed to assist users in discovering new and ex
 - **Data Source**: csv dataset.
 - **Data Size**: 100+ rows for a base model. 
 
-#### Overview
+Overview
 
 The Song Recommender employs user-item-based collaborative filtering to generate music recommendations based on individual user behaviors and song characteristics. This recommender system can be adapted to any music-related dataset, making it versatile and adaptable for various music platforms.
 
